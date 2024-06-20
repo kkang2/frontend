@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### reference
+https://github.com/seungwongo/mini-project-shop/tree/master/client -> 제품 판매 웹앱
